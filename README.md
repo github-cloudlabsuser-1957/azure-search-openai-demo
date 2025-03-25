@@ -278,6 +278,15 @@ Here are the most common failure scenarios and solutions:
 * [📺 Quickly build and deploy OpenAI apps on Azure, infused with your own data](https://www.youtube.com/watch?v=j8i-OM5kwiY)
 * [📺 AI Chat App Hack series](https://www.youtube.com/playlist?list=PL5lwDBUC0ag6_dGZst5m3G72ewfwXLcXV)
 
+## Documentation
+
+Explore the following resources to understand and extend the project:
+
+- [App Customization Guide](docs/customization.md): Learn how to customize the app's UI, prompts, and data.
+- [Data Ingestion Guide](docs/data_ingestion.md): Steps to prepare and ingest your own data into the app.
+- [Productionizing Guide](docs/productionizing.md): Best practices for deploying the app in a production environment.
+- [Local Development Guide](docs/localdev.md): Tips for running and debugging the app locally.
+- [Deploying with Minimal Costs](docs/deploy_lowcost.md): Strategies to reduce deployment costs.
 
 ### Getting help
 
